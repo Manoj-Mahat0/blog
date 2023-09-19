@@ -2,3 +2,7 @@
     width: 71px;
     margin-left: -57px;
 }
+
+.text-center.relative.z-10.w-full {
+    margin-top: -154px;
+}
